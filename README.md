@@ -1,10 +1,7 @@
-Based on your HLS code and the images showing your pipelined/unpipelined optimization results, here's a comprehensive GitHub README:
 
-***
 
 # Project KALKI: HLS-Driven 128×128 Systolic Array for Edge AI Acceleration
-
-![ChipMIT | KALKI](https://img.shields.io/badge/ChipMIT-Projectshields.io/badge/Vitis%20HLS-2.io/badge/Target-Zynq%20x256×256 systolic array accelerator** for matrix multiplication designed using **Algorithmic High-Level Synthesis (HLS)**, optimized for deployment on FPGA-based edge AI systems. This project demonstrates advanced HLS optimization techniques including **pipelining, loop unrolling, and array partitioning** to achieve significant performance improvements.[1][2][3]
+256×256 systolic array accelerator** for matrix multiplication designed using **Algorithmic High-Level Synthesis (HLS)**, optimized for deployment on FPGA-based edge AI systems. This project demonstrates advanced HLS optimization techniques including **pipelining, loop unrolling, and array partitioning** to achieve significant performance improvements.[1][2][3]
 
 ***
 
